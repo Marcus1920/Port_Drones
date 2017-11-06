@@ -1,0 +1,85 @@
+<<<<<<< HEAD
+<?php
+
+namespace App\Http;
+
+use Illuminate\Foundation\Http\Kernel as HttpKernel;
+
+class Kernel extends HttpKernel
+{
+    /**
+     * The application's global HTTP middleware stack.
+     *
+     * @var array
+     */
+    protected $middleware = [
+        \Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode::class,
+        \App\Http\Middleware\EncryptCookies::class,
+        \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,
+        \Illuminate\Session\Middleware\StartSession::class,
+        \Illuminate\View\Middleware\ShareErrorsFromSession::class,
+        \App\Http\Middleware\VerifyCsrfToken::class,
+
+
+
+    ];
+
+    /**
+    /**
+     * The application's route middleware.
+     *
+     * @var array
+     * UsersMilldware
+     */
+    protected $routeMiddleware = [
+        'auth' => \App\Http\Middleware\Authenticate::class,
+        'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
+        'guest' => \App\Http\Middleware\RedirectIfAuthenticated::class,
+        'resetLastActive' => \App\Http\Middleware\ResetLastActive::class,
+        'adminmiddlewar' => \App\Http\Middleware\AdminMildware::class,
+        'UsersMilldware' => \App\Http\Middleware\UsersMilldware::class,
+    ];
+}
+=======
+<?php
+
+namespace App\Http;
+
+use Illuminate\Foundation\Http\Kernel as HttpKernel;
+
+class Kernel extends HttpKernel
+{
+    /**
+     * The application's global HTTP middleware stack.
+     *
+     * @var array
+     */
+    protected $middleware = [
+        \Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode::class,
+        \App\Http\Middleware\EncryptCookies::class,
+        \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,
+        \Illuminate\Session\Middleware\StartSession::class,
+        \Illuminate\View\Middleware\ShareErrorsFromSession::class,
+        \App\Http\Middleware\VerifyCsrfToken::class,
+
+
+
+    ];
+
+    /**
+    /**
+     * The application's route middleware.
+     *
+     * @var array
+     * UsersMilldware
+     */
+    protected $routeMiddleware = [
+        'auth' => \App\Http\Middleware\Authenticate::class,
+        'auth.basic' => \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,
+        'guest' => \App\Http\Middleware\RedirectIfAuthenticated::class,
+        'resetLastActive' => \App\Http\Middleware\ResetLastActive::class,
+        'adminmiddlewar' => \App\Http\Middleware\AdminMildware::class,
+        'UsersMilldware' => \App\Http\Middleware\UsersMilldware::class,
+    ];
+}
+>>>>>>> 835f7a65a58323b31c7c768b7b23e8e4b12d368f

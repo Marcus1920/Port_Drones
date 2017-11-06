@@ -1,0 +1,51 @@
+<<<<<<< HEAD
+/**
+ * Norwegian translation
+ *  @name Norwegian
+ *  @anchor Norwegian
+ *  @author Petter Ekrann
+ */
+
+{
+	"sProcessing":   "Laster...",
+	"sLengthMenu":   "Vis _MENU_ linjer",
+	"sZeroRecords":  "Ingen linjer matcher s&oslash;ket",
+	"sInfo":         "Viser _START_ til _END_ av _TOTAL_ linjer",
+	"sInfoEmpty":    "Viser 0 til 0 av 0 linjer",
+	"sInfoFiltered": "(filtrert fra _MAX_ totalt antall linjer)",
+	"sInfoPostFix":  "",
+	"sSearch":       "S&oslash;k:",
+	"sUrl":          "",
+  "oPaginate": {
+	    "sFirst":    "F&oslash;rste",
+	    "sPrevious": "Forrige",
+	    "sNext":     "Neste",
+	    "sLast":     "Siste"
+   }
+}
+=======
+/**
+ * Norwegian translation
+ *  @name Norwegian
+ *  @anchor Norwegian
+ *  @author Petter Ekrann
+ */
+
+{
+	"sProcessing":   "Laster...",
+	"sLengthMenu":   "Vis _MENU_ linjer",
+	"sZeroRecords":  "Ingen linjer matcher s&oslash;ket",
+	"sInfo":         "Viser _START_ til _END_ av _TOTAL_ linjer",
+	"sInfoEmpty":    "Viser 0 til 0 av 0 linjer",
+	"sInfoFiltered": "(filtrert fra _MAX_ totalt antall linjer)",
+	"sInfoPostFix":  "",
+	"sSearch":       "S&oslash;k:",
+	"sUrl":          "",
+  "oPaginate": {
+	    "sFirst":    "F&oslash;rste",
+	    "sPrevious": "Forrige",
+	    "sNext":     "Neste",
+	    "sLast":     "Siste"
+   }
+}
+>>>>>>> 835f7a65a58323b31c7c768b7b23e8e4b12d368f

@@ -1,0 +1,51 @@
+<<<<<<< HEAD
+/**
+ * Lithuanian translation
+ *  @name Lithuanian
+ *  @anchor Lithuanian
+ *  @author <a href="http://www.kurdingopinigai.lt">Kęstutis Morkūnas</a>
+ */
+
+{
+	"sProcessing":   "Apdorojama...",
+	"sLengthMenu":   "Rodyti _MENU_ įrašus",
+	"sZeroRecords":  "Įrašų nerasta",
+	"sInfo":         "Rodomi įrašai nuo _START_ iki _END_ iš _TOTAL_ įrašų",
+	"sInfoEmpty":    "Rodomi įrašai nuo 0 iki 0 iš 0",
+	"sInfoFiltered": "(atrinkta iš _MAX_ įrašų)",
+	"sInfoPostFix":  "",
+	"sSearch":       "Ieškoti:",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "Pirmas",
+		"sPrevious": "Ankstesnis",
+		"sNext":     "Tolimesnis",
+		"sLast":     "Paskutinis"
+	}
+}
+=======
+/**
+ * Lithuanian translation
+ *  @name Lithuanian
+ *  @anchor Lithuanian
+ *  @author <a href="http://www.kurdingopinigai.lt">Kęstutis Morkūnas</a>
+ */
+
+{
+	"sProcessing":   "Apdorojama...",
+	"sLengthMenu":   "Rodyti _MENU_ įrašus",
+	"sZeroRecords":  "Įrašų nerasta",
+	"sInfo":         "Rodomi įrašai nuo _START_ iki _END_ iš _TOTAL_ įrašų",
+	"sInfoEmpty":    "Rodomi įrašai nuo 0 iki 0 iš 0",
+	"sInfoFiltered": "(atrinkta iš _MAX_ įrašų)",
+	"sInfoPostFix":  "",
+	"sSearch":       "Ieškoti:",
+	"sUrl":          "",
+	"oPaginate": {
+		"sFirst":    "Pirmas",
+		"sPrevious": "Ankstesnis",
+		"sNext":     "Tolimesnis",
+		"sLast":     "Paskutinis"
+	}
+}
+>>>>>>> 835f7a65a58323b31c7c768b7b23e8e4b12d368f

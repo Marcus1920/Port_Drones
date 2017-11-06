@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?php
+
+namespace App\Events;
+
+abstract class Event
+{
+    //
+}
+=======
+<?php
+
+namespace App\Events;
+
+abstract class Event
+{
+    //
+}
+>>>>>>> 835f7a65a58323b31c7c768b7b23e8e4b12d368f
